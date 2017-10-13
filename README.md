@@ -1,5 +1,5 @@
 # ZoomScrollLayout
-## android 自定义的可以平移缩放的ViewGroup
+## android 自定义的可以平移缩放的ViewGroup，支持任意view。
 
     话不多说，直接上图：
 ![](https://github.com/wg400/ZoomScrollLayout/blob/master/image/1.gif?raw=true)  
