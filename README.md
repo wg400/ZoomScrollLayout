@@ -3,7 +3,6 @@
 
     话不多说，直接上图：
 ![](https://github.com/wg400/ZoomScrollLayout/blob/master/image/1.gif?raw=true)  
-![](https://github.com/wg400/ZoomScrollLayout/blob/master/image/66.gif?raw=true)  
 
     使用方法
 ```xml
